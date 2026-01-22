@@ -1,2 +1,2 @@
-# shakkimoottori_kehitys
-Tavoitteena puhtaalta pöydältä aloitettuna luoda shakkimoottori ja tutkia menetelmiä joiden avulla moottorista tulisi mahdollisimman vahva. Mahdollisesti useampi jos eri kielillä saa järkevästi vahvemman moottorin. Prototyyppi Pythonilla.
+# Shakkimoottorin kehittäminen
+Aloitetaan alkeista luomalla yksinkertainen Python moottori joka osaa shakin säännöt ja tekee satunnaisia siirtoja. Siitä sitten siirrytään alkeellisiin ja lopulta monimutkaisempiin algoritmeihin.
